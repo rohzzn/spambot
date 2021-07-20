@@ -5,6 +5,5 @@ A simple bot to spam anywhere.
 ```
 pip install pynput
 ```
-# :D
 <br>
 <img src="https://raw.githubusercontent.com/Calatop/Spambot/main/sad%20noises.png">
